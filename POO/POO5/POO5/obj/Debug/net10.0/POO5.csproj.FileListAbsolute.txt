@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\bin\Debug\net10.0\POO5.exe
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\bin\Debug\net10.0\POO5.deps.json
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\bin\Debug\net10.0\POO5.runtimeconfig.json
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\bin\Debug\net10.0\POO5.dll
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\bin\Debug\net10.0\POO5.pdb
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.dll
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\refint\POO5.dll
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.pdb
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\POO5.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\POO\POO5\POO5\obj\Debug\net10.0\ref\POO5.dll
